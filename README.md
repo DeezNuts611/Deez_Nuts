@@ -35,7 +35,7 @@ I'm a cybersecurity specialist with expertise in security research, penetration 
 - Python (Security Scripting)
 - JavaScript / TypeScript
 - Bash / Shell Scripting
-- SQL
+- C / C++ /C#
 
 ### Security Certifications & Knowledge
 - OWASP Framework
